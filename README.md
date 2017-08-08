@@ -1,4 +1,6 @@
 # Facebook Quote
+[![GitLicense](https://gitlicense.com/ducthienbui97/FacebookQuote/badge)](https://gitlicense.com/ducthienbui97/FacebookQuote/license)
+
 Chrome extension that display a quote everytime login Facebook. You have to click on the quote to show Facebook timeline.
 ## Sample
 ![Sample image](img/Sample.PNG?raw=true)
